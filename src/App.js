@@ -83,7 +83,7 @@ export default function Tofuboard() {
           }}
         >
           <img src={abort} alt="Abort" />
-          <span class="text-overlay">Abort</span>
+          <span class="text-overlay">Abort Mission</span>
         </span>
         <span
           class="container"
