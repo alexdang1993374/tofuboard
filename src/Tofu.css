@@ -11,6 +11,7 @@ body {
 
 h1 {
   line-height: 1em;
+  font-size: 50px;
   color:  #C44593;
   /* cursor: pointer; */
   user-select: none;
@@ -38,7 +39,7 @@ img {
 
 .backdrop {
   width: 99.5%;
-  height: 250px;
+  height: 220px;
   cursor: pointer;
 }
 
